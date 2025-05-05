@@ -17,3 +17,9 @@
 
 
 [linkedin]: https://www.linkedin.com/in/demetruis-verrett-b3429564/
+
+   body {
+            background: radial-gradient(circle at bottom, navy 0, black 100%);
+            height: 100vh;
+            overflow: hidden;
+        }
